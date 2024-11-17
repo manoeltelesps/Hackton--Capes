@@ -1,9 +1,10 @@
+
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br"><head>
   <base href="https://www.periodicos.capes.gov.br/">
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<meta name="generator" content="Joomla! - Open Source Content Management">
-	<title>Portal Periódicos CAPES - Portal Periódicos CAPES</title>
-	<link href="/templates/periodicos_v3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="Joomla! - Open Source Content Management">
+    <title>Portal Periódicos CAPES - Portal Periódicos CAPES</title>
+    <link href="/templates/periodicos_v3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -125,7 +126,7 @@
               <script>
 $( document ).ready(function() {
     $('[data-toggle="tooltip"]').tooltip();
-	
+    
     $('.bt-meu-espaco-lembrar').click(function(){
         if($( "#body-login" ).hasClass( "show" )){
 
@@ -284,28 +285,28 @@ $( document ).ready(function() {
 </div>
             </div>
                   </div>
-	    </header>
-	          	
+        </header>
+                  
 <script>
 $(function(){
-	var tickerLength = $('.area-banner ul li').length;
-	var tickerHeight = $('.area-banner ul li').outerHeight();
+    var tickerLength = $('.area-banner ul li').length;
+    var tickerHeight = $('.area-banner ul li').outerHeight();
 
-	$('.area-banner ul li:last-child').prependTo('.area-banner ul');
-	$('.area-banner ul').css('marginTop',-tickerHeight);
-		function moveTop(){
-			$('.area-banner ul').animate({
-				left : -tickerHeight
-			},900, 
-		function(){
-			$('.area-banner ul li:first-child').appendTo('.area-banner ul');
-      		$('.area-banner ul').css('top','');
-		});
-	}
+    $('.area-banner ul li:last-child').prependTo('.area-banner ul');
+    $('.area-banner ul').css('marginTop',-tickerHeight);
+        function moveTop(){
+            $('.area-banner ul').animate({
+                left : -tickerHeight
+            },900, 
+        function(){
+            $('.area-banner ul li:first-child').appendTo('.area-banner ul');
+              $('.area-banner ul').css('top','');
+        });
+    }
 
-	setInterval( function(){
-    	moveTop();
-	}, 3500);
+    setInterval( function(){
+        moveTop();
+    }, 3500);
 });
 </script>
 
