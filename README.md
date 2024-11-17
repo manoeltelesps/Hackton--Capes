@@ -1,24 +1,30 @@
+# 🌐 [Sistema Colaborativo de Pesquisadores](https://manoeltelesps.github.io/Hackton--Capes/)  
+
+## 🔎 **Descrição do Projeto**  
+Este é o protótipo de um sistema colaborativo projetado para **equipes de pesquisadores**. O objetivo principal é criar uma plataforma que centralize documentos, tarefas e facilite a colaboração entre pesquisadores de diferentes projetos.  
+
+Atualmente, o site apresenta um **template funcional**, destacando as bases visuais e organizacionais do sistema, com uma interface intuitiva para exibição e navegação.  
+
 ---
 
-# Chatbot Auxiliar de Pesquisa - Portal Periódico CAPES
+## 📋 **Funcionalidades Disponíveis no Protótipo**  
 
-### Hackathon - Desafio Portal de Periódicos da CAPES 2024
+### 📄 **Página Inicial**  
+- Apresenta uma introdução ao propósito do sistema e seus objetivos gerais.  
 
-## Descrição
+---
 
-Chatbot desenvolvido para auxiliar pesquisadores a encontrar artigos e informações no **Portal Periódico CAPES** de forma rápida e precisa. Ideal para facilitar o acesso a conteúdos científicos e acadêmicos.
+## 💡 **Próximos Passos**  
+1. Implementar funcionalidades interativas, como:  
+   - Upload e edição de documentos.  
+   - Gerenciamento de tarefas com status e notificações.  
+   - Integração com ferramentas externas.
+   - 
+2. Adicionar inteligência artificial para sugestões e análise de conteúdo.  
 
-## Funcionalidades
+---  
 
-- **Navegação Guiada**: Ajuda na navegação pelo Portal CAPES.
-- **Respostas Contextuais**: Responde a perguntas com base na pesquisa.
+## 👨‍💻 **Acesso ao Protótipo**  
+Explore o sistema diretamente pelo link: https://manoeltelesps.github.io/Hackton--Capes/
 
-## Tecnologias
-
-- **Chatling.ai**: Plataforma de chatbot.
-- **HTML/CSS**: Interface.
-- **Portal CAPES**: Fonte de dados acadêmicos.
-
-## Conclusão
-
-Este chatbot representa uma solução prática e eficaz para otimizar a busca e o acesso a recursos acadêmicos no Portal CAPES, especialmente útil para pesquisadores e estudantes que desejam economizar tempo. Durante o hackathon, a equipe explorou tecnologias modernas para tornar o processo de pesquisa mais intuitivo e acessível, oferecendo um serviço que poderá ser expandido e personalizado para atender a diversas áreas do conhecimento.
+Este protótipo foi desenvolvido durante um **Hackathon Portal Periódico Capes**, priorizando agilidade e apresentação das ideias principais do projeto.
